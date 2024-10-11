@@ -1,0 +1,14 @@
+{
+  "name": "base-layer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./nuxt.config.ts",
+  "dependencies": {
+    "@nuxt/eslint": "latest",
+    "@nuxt/test-utils": "^3.14.3",
+    "@nuxt/fonts": "^0.10.0",
+    "@nuxt/icon": "^1.5.6",
+    "@nuxt/image": "^1.8.1",
+    "nuxt-typed-router": "^3.7.0"
+  }
+}
