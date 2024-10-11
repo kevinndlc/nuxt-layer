@@ -1,0 +1,9 @@
+{
+  "name": "tw-layer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./nuxt.config.ts",
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "latest"
+  }
+}
