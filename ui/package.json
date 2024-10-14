@@ -1,0 +1,9 @@
+{
+  "name": "ui-layer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./nuxt.config.ts",
+  "dependencies": {
+    "@nuxt/ui": "latest"
+  }
+}
