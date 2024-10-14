@@ -6,7 +6,6 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
     '@nuxt/icon',
     '@nuxt/image',
-    '@nuxtjs/seo',
     'nuxt-typed-router'
   ]
 })
